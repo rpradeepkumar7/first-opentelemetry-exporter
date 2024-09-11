@@ -1,0 +1,25 @@
+receivers:
+  otlp:
+    protocols:
+      http:
+      grpc:
+exporters:
+  debug:
+    verbosity: detailed
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      exporters: 
+        - emptyexporter
+        - debug
+    metrics:
+      receivers: [otlp]
+      exporters: 
+        - emptyexporter
+        - debug
+    logs:
+      receivers: [otlp]
+      exporters: 
+        - emptyexporter
+        - debug

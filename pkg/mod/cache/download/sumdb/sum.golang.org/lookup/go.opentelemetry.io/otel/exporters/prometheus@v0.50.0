@@ -1,0 +1,9 @@
+27871177
+go.opentelemetry.io/otel/exporters/prometheus v0.50.0 h1:2Ewsda6hejmbhGFyUvWZjUThC98Cf8Zy6g0zkIimOng=
+go.opentelemetry.io/otel/exporters/prometheus v0.50.0/go.mod h1:pMm5PkUo5YwbLiuEf7t2xg4wbP0/eSJrMxIMxKosynY=
+
+go.sum database tree
+29673217
+F7RZbmI2OfF/o8qukg3fAxg3SW95gsM9lUQ4LAKghuM=
+
+— sum.golang.org Az3grqAhtNPu0ssaXKu/wUHoyqICSC9zlXEV0TdXrhAlus78JeKO6X9/96BdKovZDFGZGqtxetUpHyDBwFCUdEjC+w4=

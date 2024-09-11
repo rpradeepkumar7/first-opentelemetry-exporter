@@ -1,0 +1,9 @@
+27888880
+go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.53.0 h1:9G6E0TXzGFVfTnawRzrPl83iHOAV7L8NJiR8RSGYV1g=
+go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.53.0/go.mod h1:azvtTADFQJA8mX80jIH/akaE7h+dbm/sVuaHqN13w74=
+
+go.sum database tree
+29673234
+tKq0vGxwBBizTI1CEFpN7y7sujxu/gfylCc6PByoRv4=
+
+— sum.golang.org Az3grrlkeRmH2atCUKPxYzdqYoeOYKV0kKltVWxLBPyb8Cr/WDRhFPcddDPg4DP1ZL7b6KHLQWLpyLBA75VrKEyJEgo=
